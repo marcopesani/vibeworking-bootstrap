@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "figma-desktop": {
+      "url": "http://localhost:3845/mcp"
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["chrome-devtools-mcp@latest"]
+    }
+  }
+}
