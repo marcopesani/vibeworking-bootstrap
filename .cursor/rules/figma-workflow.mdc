@@ -1,0 +1,14 @@
+---
+description: When building with code a design mage with Figma
+alwaysApply: false
+---
+Follow this workflow:
+
+1. Collect a screenshot of the selection and describe visually what you see
+2. Analyze the semantical structure of the page and its components
+3. Write the page and/or component semantical tree structure
+4. Identify the spacing rules and constraints
+5. Identify the typography rules and constraints
+6. Identify the color rules and constraints
+7. Describe the content hierarchy
+8. Write a markdown document with the above information in the /docs folder
