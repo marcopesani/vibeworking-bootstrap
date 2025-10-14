@@ -4,11 +4,16 @@ alwaysApply: false
 ---
 Follow this workflow:
 
-1. Collect a screenshot of the selection and describe visually what you see
-2. Analyze the semantical structure of the page and its components
-3. Write the page and/or component semantical tree structure
-4. Identify the spacing rules and constraints
-5. Identify the typography rules and constraints
-6. Identify the color rules and constraints
-7. Describe the content hierarchy
-8. Write a markdown document with the above information in the /docs folder
+1. Create an empty markdown document in the /docs for the page structure description
+2. Collect a screenshot of the selection and describe visually what you see
+3. Get the code of the selection
+4. Analyze the semantical structure of the page and its components
+5. Write the page and/or component semantical tree structure
+6. Describe the content hierarchy
+-- Update the doc now --
+7. Identify the spacing scale rules and tokens. Normalize the tokens.
+-- Update the doc now --
+8. Identify the typography scale rules and tokens. Normalize the tokens.
+-- Update the doc now --
+9. Identify the color tokens. Normalize the tokens.
+-- Update the doc now --
